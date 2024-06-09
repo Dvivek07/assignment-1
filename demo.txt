@@ -1,2 +1,6 @@
 This is the demo file
+<<<<<<< HEAD
 changing clone2
+=======
+changing clone1
+>>>>>>> 083a347032a7c1dcaa9be23b5485efe586a94968
